@@ -1,0 +1,1 @@
+mris_sphere -rusage /home/adam2392/hdd2/Dropbox/epilepsy_bids/derivatives/freesurfer/la02/touch/rusage.mris_sphere.rh.dat -seed 1234 ../surf/rh.inflated ../surf/rh.sphere

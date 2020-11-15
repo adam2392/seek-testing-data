@@ -1,0 +1,1 @@
+mri_convert /home/adam2392/hdd2/Dropbox/epilepsy_bids/derivatives/freesurfer/la02/mri/rawavg.mgz /home/adam2392/hdd2/Dropbox/epilepsy_bids/derivatives/freesurfer/la02/mri/orig.mgz --conform --cw256

@@ -1,0 +1,16 @@
+# Input volume: /home/adam2392/hdd2/epilepsy_bids/derivatives/freesurfer/la02/acpc/postsurgery/sub-la02_ses-postsurgery_proc-robustfov_T1w.nii
+
+# Estimated mid-sagittal plane: (0.9992121x) + (0.0299884y) + (0.0259974z) = -3.21207 (mm)
+0.9992121 0.0299884 0.0259974 -3.21207
+
+# AC-PC distance = 28.178 mm
+
+# VSPS (i,j,k) voxel location:
+123.1 111.7  86.2
+
+# AC (i,j,k) voxel location:
+124.4  87.2  73.5
+
+# PC (i,j,k) voxel location:
+123.3  96.1  91.5
+

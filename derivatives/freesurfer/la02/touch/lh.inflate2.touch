@@ -1,0 +1,1 @@
+mris_inflate -rusage /home/adam2392/hdd2/Dropbox/epilepsy_bids/derivatives/freesurfer/la02/touch/rusage.mris_inflate.lh.dat ../surf/lh.smoothwm ../surf/lh.inflated

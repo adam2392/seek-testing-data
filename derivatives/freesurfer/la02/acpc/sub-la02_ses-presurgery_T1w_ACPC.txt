@@ -1,0 +1,16 @@
+# Input volume: /home/adam2392/hdd2/epilepsy_bids/derivatives/freesurfer/la02/acpc/sub-la02_ses-presurgery_T1w.nii
+
+# Estimated mid-sagittal plane: (0.9997839x) + (-0.0152556y) + (-0.0141235z) =  1.04148 (mm)
+0.9997839 -0.0152556 -0.0141235  1.04148
+
+# AC-PC distance = 28.018 mm
+
+# VSPS (i,j,k) voxel location:
+129.1 111.8  84.8
+
+# AC (i,j,k) voxel location:
+128.5  96.2  69.5
+
+# PC (i,j,k) voxel location:
+128.9  97.3  88.2
+
