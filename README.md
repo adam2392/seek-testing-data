@@ -7,7 +7,10 @@ for testing [`seek`](https://github.com/ncsl/seek/).
 Data will be stored as an output of `seek` in the [BIDS format](https://bids-specification.readthedocs.io/).
 
 ## Sourcedata
-For each subject, there was a raw EDF file, which was converted into the BrainVision format with `mne_bids`. Each subject with SEEG implantation, also has an Excel table, called `electrode_layout.xlsx`, which outlines where the clinicians marked each electrode anatomically. Note that there is no rigorous atlas applied, so the main points of interest are: `WM`, `GM`, `VENTRICLE`, `CSF`, and `OUT`, which represent white-matter, gray-matter, ventricle, cerebrospinal fluid and outside the brain. WM, Ventricle, CSF and OUT were removed channels from further analysis. These were labeled in the corresponding BIDS `channels.tsv` sidecar file as `status=bad`.
+For each subject, there are three folders: `premri/`, `postct/` and `postmri/` containing
+test subject dicom files. 
+
+For a description of these, please refer to https://github.com/ncsl/seek/workflow/documentation.md
 
 ## Derivatives
 Derivatives include the `freesurfer/` output, which corresponds to the
