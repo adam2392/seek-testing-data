@@ -1,7 +1,19 @@
 {
-    "Name": " ",
-    "BIDSVersion": "1.2.0",
+    "Name": "SEEK-testing-data",
+    "BIDSVersion": "1.4.0",
     "Authors": [
-        "MNE-BIDS",""
-    ]
+        "Seek Developers"
+    ],
+    "DatasetType": "raw",
+    "GeneratedBy": [
+    {
+      "Name": "seek",
+      "Version": "1.0.0",
+      "Description": "Added testing sourcedata",
+      "Container": {
+        "Type": "docker",
+        "Tag": "neuroseek/seek:1.0.0"
+        }
+    },
+  ]
 }
